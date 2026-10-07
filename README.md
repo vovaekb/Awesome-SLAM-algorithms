@@ -8,6 +8,13 @@ AQUA-SLAM is an underwater SLAM system that integrates a Doppler Velocity Log (D
 
 [github](https://github.com/SenseRoboticsLab/AQUA-SLAM)
 
+## Visual SLAM
+
+**ScaRF-SLAM**
+
+ScaRF-SLAM is a dense visual mapping framework that combines the robustness of classical visual SLAM with the reconstruction capability of modern geometric foundation models (GFMs).
+
+[github](https://github.com/ori-drs/ScaRF-SLAM)
 
 ## LIDAR SLAM
 
